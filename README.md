@@ -25,5 +25,4 @@ Although the current model does not meet the target model performance (75%+), it
 Recommended experimentation of model variation to enhance its performance, including exploring different model architectures and hyperparameter tuning. Overall, the results of the model can be improved by adjusting hidden units by using small and large numbers and removing less relevant features to reduce noise and potential outliers. 
 
 
-_________________________________________________________________________
 
