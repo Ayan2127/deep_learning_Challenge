@@ -21,8 +21,9 @@ Although the current model does not meet the target model performance (75%+), it
 <img width="665" alt="Screenshot 2023-09-10 at 3 17 44 PM" src="https://github.com/Ayan2127/deep_learning_Challenge/assets/126814705/f1236f3d-6f04-4b9d-876d-3ee9d7241006">
 
 
-_________________________________________________________________________-
-
 
 Recommended experimentation of model variation to enhance its performance, including exploring different model architectures and hyperparameter tuning. Overall, the results of the model can be improved by adjusting hidden units by using small and large numbers and removing less relevant features to reduce noise and potential outliers. 
+
+
+_________________________________________________________________________
 
