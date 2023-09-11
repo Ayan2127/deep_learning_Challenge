@@ -8,7 +8,7 @@ __________________________________________________________________
 The purpose of this analysis is to create a machine learning tool for Alphabet Soup, a non-profit foundation, to identify applicants with a high chance of funding success. A CSV file containing data from 34,000 organizations was evaluated and preprocessed. This preprocessing included identifying target and feature variables, dropping unwanted columns, binning, and encoding categorical variables using the 'get_dummies' function in pandas. The data was then split into training and testing datasets, and both sets were scaled. Sequential modeling was performed using TensorFlow and Keras on the training datasets.
 
 
-The target variable for the model is the 'is_successful' column, while the feature variables include all columns except 'is_successful,' which is used to train the model for predicting the target variable. The 'EIN' and 'NAME' columns were dropped from the DataFrame as they are not considered target or feature variables. The hidden layer units are shown below.
+The target variable for the model is the 'is_successful' column, while the feature variables include all columns except 'is_successful,' which is used to train the model for predicting the target variable. The 'EIN' and 'NAME' columns were dropped from the DataFrame as they are not considered target or feature variables. The hidden layer units used for the model are shown below.
 
 
 
